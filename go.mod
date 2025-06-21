@@ -1,6 +1,6 @@
 module github.com/chindada/leopard
 
-go 1.24.3
+go 1.24.4
 
 require (
 	github.com/asaskevich/EventBus v0.0.0-20200907212545-49d423059eef
