@@ -43,7 +43,7 @@ git pull
 ```
 
 ```sh
-VERSION=1.2.1
+VERSION=1.0.0
 git tag -a v$VERSION -m "Release v$VERSION"
 git push -u origin --tags
 git push -u origin --all
